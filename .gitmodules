@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "chisq.posthoc.test"]
 	path = chisq.posthoc.test
 	url = https://github.com/ebbertd/chisq.posthoc.test
-	shallow = true
-	registered = true
